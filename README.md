@@ -6,7 +6,7 @@ The modules/libraries used in this project are:\
 1.Pandas \
 2.Matplotlib.pyplot\
 3.Seaborn\
-4.Numpy\
+4.Numpy
 
 Dataset Description:\
 Title- Contains the title of the movie\
@@ -55,5 +55,5 @@ Votes1000  - Average rating given by top 1000 IMDb voters\
 VotesUS	   - Average rating given by US people	\
 VotesnUS   - Average rating given by non-US people	\
 content_rating	- Content Rating of movie e.g. PG-13,R etc\
-Country - Origin country of the movie\
+Country - Origin country of the movie
 
